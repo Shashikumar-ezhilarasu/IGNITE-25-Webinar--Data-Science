@@ -6,7 +6,7 @@ This repo contains all the resources and learning materials.
 
 Welcome to this comprehensive guide designed to help you embark on your data science journey with Python. From understanding Python basics to diving into NumPy, pandas, and data visualization, this repository is your one-stop learning solution.  
 
----
+-
 
 ## **Table of Contents**  
 
